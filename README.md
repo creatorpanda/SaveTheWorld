@@ -8,3 +8,6 @@ Also, it's not good looking since I wasn't assisted by a graphic designer or use
 (minor bug: sider buttons work only if you press them on the letters. the rest of the button won't redirect you.)
 
 suggestions are welcomed and appreciated :)
+
+
+In case you don't know what to do: Click on the green "Clone or Download" button, click "Download Zip". Unzip it and open "index.html", in the "html file".
