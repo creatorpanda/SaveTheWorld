@@ -1,4 +1,6 @@
 # SaveTheWorld
+***Please note that this is an old project, served as an HTML/CSS tutorial. It no longer represents my current skills.***
+
 A site about an imaginary nonprofit organization **made from scratch exclusively on Notepad++** without any pre-made templates, **tested only on Google Chrome**. 
 The site's content is written in Greek, my native language. Contact info is changed so I keep my privacy... private.
 
